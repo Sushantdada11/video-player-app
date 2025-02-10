@@ -27,14 +27,14 @@ const modulesData = [
     id: 1,
     title: "React Basics",
     description: "Introduction to React fundamentals.",
-    videoUrl: "https://www.w3schools.com/html/mov_bbb.mp4",
+    videoUrl: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
     tags: ["React", "JavaScript", "Frontend"],
   },
   {
     id: 2,
     title: "Advanced Hooks",
     description: "Deep dive into React Hooks.",
-    videoUrl: "https://www.w3schools.com/html/mov_bbb.mp4",
+    videoUrl: "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
     tags: ["Hooks", "React", "State Management"],
   },
 ];
